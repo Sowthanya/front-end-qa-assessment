@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/calculator/static/css/main.8722e8f2.css",
-    "main.js": "/calculator/static/js/main.af2c1056.js",
-    "static/js/306.c9f9b4a8.chunk.js": "/calculator/static/js/306.c9f9b4a8.chunk.js",
-    "static/js/563.25d57487.chunk.js": "/calculator/static/js/563.25d57487.chunk.js",
-    "static/js/942.75a5a328.chunk.js": "/calculator/static/js/942.75a5a328.chunk.js",
-    "static/js/787.ad9f4155.chunk.js": "/calculator/static/js/787.ad9f4155.chunk.js",
-    "static/js/419.718cad2c.chunk.js": "/calculator/static/js/419.718cad2c.chunk.js",
-    "static/js/48.a9f82bae.chunk.js": "/calculator/static/js/48.a9f82bae.chunk.js",
-    "static/media/Lacoste Sans Regular.otf": "/calculator/static/media/Lacoste Sans Regular.8d3b6b7d9d6e0eedc81c.otf",
-    "index.html": "/calculator/index.html",
-    "main.8722e8f2.css.map": "/calculator/static/css/main.8722e8f2.css.map",
-    "main.af2c1056.js.map": "/calculator/static/js/main.af2c1056.js.map",
-    "306.c9f9b4a8.chunk.js.map": "/calculator/static/js/306.c9f9b4a8.chunk.js.map",
-    "787.ad9f4155.chunk.js.map": "/calculator/static/js/787.ad9f4155.chunk.js.map",
-    "419.718cad2c.chunk.js.map": "/calculator/static/js/419.718cad2c.chunk.js.map",
-    "48.a9f82bae.chunk.js.map": "/calculator/static/js/48.a9f82bae.chunk.js.map"
+    "main.css": "/front-end-qa-assessment/static/css/main.f35f624e.css",
+    "main.js": "/front-end-qa-assessment/static/js/main.82fcdc1d.js",
+    "static/js/306.c9f9b4a8.chunk.js": "/front-end-qa-assessment/static/js/306.c9f9b4a8.chunk.js",
+    "static/js/563.25d57487.chunk.js": "/front-end-qa-assessment/static/js/563.25d57487.chunk.js",
+    "static/js/942.75a5a328.chunk.js": "/front-end-qa-assessment/static/js/942.75a5a328.chunk.js",
+    "static/js/787.ad9f4155.chunk.js": "/front-end-qa-assessment/static/js/787.ad9f4155.chunk.js",
+    "static/js/419.eb96f191.chunk.js": "/front-end-qa-assessment/static/js/419.eb96f191.chunk.js",
+    "static/js/48.a9f82bae.chunk.js": "/front-end-qa-assessment/static/js/48.a9f82bae.chunk.js",
+    "static/media/Lacoste Sans Regular.otf": "/front-end-qa-assessment/static/media/Lacoste Sans Regular.8d3b6b7d9d6e0eedc81c.otf",
+    "index.html": "/front-end-qa-assessment/index.html",
+    "main.f35f624e.css.map": "/front-end-qa-assessment/static/css/main.f35f624e.css.map",
+    "main.82fcdc1d.js.map": "/front-end-qa-assessment/static/js/main.82fcdc1d.js.map",
+    "306.c9f9b4a8.chunk.js.map": "/front-end-qa-assessment/static/js/306.c9f9b4a8.chunk.js.map",
+    "787.ad9f4155.chunk.js.map": "/front-end-qa-assessment/static/js/787.ad9f4155.chunk.js.map",
+    "419.eb96f191.chunk.js.map": "/front-end-qa-assessment/static/js/419.eb96f191.chunk.js.map",
+    "48.a9f82bae.chunk.js.map": "/front-end-qa-assessment/static/js/48.a9f82bae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8722e8f2.css",
-    "static/js/main.af2c1056.js"
+    "static/css/main.f35f624e.css",
+    "static/js/main.82fcdc1d.js"
   ]
 }
