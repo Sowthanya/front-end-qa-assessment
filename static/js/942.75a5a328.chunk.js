@@ -1,0 +1,1 @@
+(self.webpackChunklacoste_ui=self.webpackChunklacoste_ui||[]).push([[942],{4654:function(){},2361:function(){},4616:function(){}}]);
