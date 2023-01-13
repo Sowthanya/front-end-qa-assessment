@@ -1,7 +1,7 @@
 {
   "name": "lacoste-ui",
   "version": "0.1.0",
-  "homepage": "https://Sowthanya.github.io/calculator",
+  "homepage": "https://sowthanya.github.io/front-end-qa-assessment/",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.0.11",
